@@ -14,9 +14,6 @@ Note: Please make sure you are in the root directory of this repository.
 ### EXECUTION 
 To see the visualization, please run the following command in the root directory of the repo:
 streamlit run streamlit_chart.py
-
-Navigate to the network url in the terminal
-Ex. http://192.168.102.78:8501/
  
 ### DEMO VIDEO 
 
