@@ -12,7 +12,7 @@ In order to view the visualization please run the following line in a terminal w
 - Create Anaconda environment: conda create -n viz_course python=3.8
 - Package installation: pip install -r requirements.txt
 - Lastly, install prophet library using conda: conda install -c conda-forge prophet
-Note: Please make sure you are in the root directory of this repository.
+- Note: Please make sure you are in the root directory of this repository.
 
 ### EXECUTION 
 To see the visualization, please run the following command in the root directory of the repo:
