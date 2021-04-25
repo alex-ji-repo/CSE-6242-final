@@ -22,5 +22,4 @@ Navigate to the network url in the terminal
 Ex. http://192.168.102.78:8501/
  
 ### DEMO VIDEO 
-
-(link to video on how to open the visualization and python jupyter notebooks) 
+https://youtu.be/WHn3OBNg8ps
