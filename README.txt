@@ -9,8 +9,8 @@ After starting up the visualization, please wait for a few minutes until the bac
 ### INSTALLATION 
 In order to view the visualization please run the following line in a terminal with anaconda already installed.
 - Anaconda installation: https://www.anaconda.com/products/individual
-- Activate the conda environment in the command line: conda activate viz_course
 - Create Anaconda environment: conda create -n viz_course python=3.8
+- Activate the conda environment in the command line: conda activate viz_course
 - Note: Please make sure you are in the root directory of this repository: cd CSE-6242-final
 - Package installation: pip install -r requirements.txt
 - Lastly, install prophet library using conda: conda install -c conda-forge fbprophet
