@@ -1,7 +1,7 @@
 # import all libraries
 import yfinance as yf
 import numpy as np
-from prophet import Prophet
+from fbprophet import Prophet
 import pandas as pd
 from datetime import date, timedelta, datetime
 from textblob import TextBlob
@@ -83,7 +83,7 @@ st.write(
 """
 )
 
-df_class = pd.read_csv("analysis/classification_result.csv")
+df_class = pd.read_csv("CODE/classification_result.csv")
 df_class["stack_model"] = df_class.apply(
     lambda x: 1
     if (
