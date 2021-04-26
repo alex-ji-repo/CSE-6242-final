@@ -25,3 +25,6 @@ Ex. http://192.168.102.78:8501/
  
 ### DEMO VIDEO 
 https://youtu.be/WHn3OBNg8ps
+
+### OS Dependency
+We tested this installation with both Mac OS and Ubuntu Linux. For windows users, please use wsl2 and run ubuntu linux to see the visualization: https://docs.microsoft.com/en-us/windows/wsl/install-win10
